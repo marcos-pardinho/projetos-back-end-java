@@ -1,2 +1,1 @@
-# projetos-back-end-java
-Este repositório é dedicado aos projetos em Java
+# Portfólio de Projetos Java: Desenvolvimento e Melhores Práticas.
